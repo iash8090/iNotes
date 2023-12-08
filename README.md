@@ -3,7 +3,8 @@
 ## About
 This is a Notes Application Project. Here one can create his notes and keep them updated or delete them. 
 
-Its backend is based upon **Django Framework** and frontend is of **React Js**. The frontend part of React Js is integrated within the Django.
+Its backend is based upon **Django Framework** and frontend is of **React Js**. The frontend part of React Js is integrated within the Django. For that first build has been created of the react app then its static files and index file of build has been linked to backend.
+
 For creating APIs, Django Rest Framwork(DRF) and Object Relational Mapping(ORM) is used to implement 'GET', 'POST', 'PUT', 'DELETE' methods.
 
 ## Commands to run after dwonloading project :
